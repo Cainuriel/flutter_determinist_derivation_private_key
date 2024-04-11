@@ -1,10 +1,10 @@
-# Derivación Determinista Jerárquica de claves privadas con Flutter 
+# Derivación Determinista Jerárquica de claves privadas en Flutter 
 
  Ejemplo de derivación con clave maestra para generar conjunto de claves hijas (pública y privada). 
 
  Así es como generan sus direcciones las más importantes billeteras del mercado, como por ejemplo __Metamask__.
  
- El metodo utilizado es la HD __(Hierarchical Deterministic) Derivation__, o derivación determinista jerárquica en español a partir de una semila.
+ El metodo utilizado es la HD __(Hierarchical Deterministic) Derivation__, o derivación determinista jerárquica en español, a partir de una semila.
 
 La semilla ("seed phrase" o "mnemonic") es una representación humana y amigable con la que se generarán todas las claves privadas y públicas.
 
